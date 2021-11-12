@@ -8,7 +8,7 @@
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "PIETI",
+  "author": "Pieti Pöntinen",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^3.2.3",
